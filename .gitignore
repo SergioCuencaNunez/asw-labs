@@ -7,8 +7,8 @@ lab1/api_secrets/bearer_token.txt
 lab1/api_secrets/client_id.txt
 lab1/api_secrets/client_secret.txt
 
-lab3/user_secrets/user.txt
-lab3/user_secrets/password.txt
+lab3/users_secrets/user.txt
+lab3/users_secrets/password.txt
 
 # macOS Files
 .DS_Store
