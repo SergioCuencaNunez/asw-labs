@@ -1,11 +1,14 @@
-# Access Tokens
-apis/access_secret.txt
-apis/access_token.txt
-apis/api_key.txt
-apis/api_secret.txt
-apis/bearer_token.txt
-apis/client_id.txt
-apis/client_secret.txt
+# Secrets
+lab1/api_secrets/access_secret.txt
+lab1/api_secrets/access_token.txt
+lab1/api_secrets/api_key.txt
+lab1/api_secrets/api_secret.txt
+lab1/api_secrets/bearer_token.txt
+lab1/api_secrets/client_id.txt
+lab1/api_secrets/client_secret.txt
+
+lab3/user_secrets/user.txt
+lab3/user_secrets/password.txt
 
 # macOS Files
 .DS_Store
