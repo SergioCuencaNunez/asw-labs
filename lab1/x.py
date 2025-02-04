@@ -4,10 +4,10 @@ from requests_oauthlib import OAuth1
 
 # Load credentials from text files
 current_dir = os.path.dirname(__file__)
-api_key_path = os.path.join(current_dir, "api_key.txt")
-api_secret_path = os.path.join(current_dir, "api_secret.txt")
-access_token_path = os.path.join(current_dir, "access_token.txt")
-access_secret_path = os.path.join(current_dir, "access_secret.txt")
+api_key_path = os.path.join(current_dir, "api_secrets/api_key.txt")
+api_secret_path = os.path.join(current_dir, "api_secrets/api_secret.txt")
+access_token_path = os.path.join(current_dir, "api_secrets/access_token.txt")
+access_secret_path = os.path.join(current_dir, "api_secrets/access_secret.txt")
 
 with open(api_key_path, "r") as file:
     API_KEY = file.read().strip()
