@@ -10,5 +10,8 @@ lab1/api_secrets/client_secret.txt
 lab3/users_secrets/user.txt
 lab3/users_secrets/password.txt
 
+project/data/api_secrets/client_id.txt
+project/data/api_secrets/client_secret.txt
+
 # macOS Files
 .DS_Store
